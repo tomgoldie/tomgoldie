@@ -2,7 +2,7 @@
 <p>I’m interested in building several projects, but have dreams bigger than my coding skills:
 <ul>
 <li>A tool to build term hierarchies useful for educators</li>
-<li>A community-powered website ⁸</li>
+<li>A community-powered website to to categorize businesses, clubs, services and provide updated info on them</li>
 <li>A website to facilitate paying/donating small amounts easily over the internet</li>
 <li>A tool to help counties crowdsource election security, to include
 <ul>
