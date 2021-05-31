@@ -9,7 +9,7 @@
 <li>Signature verification</li>
 <li>Voter verification</li>
 <li>Vote counting</li>
-<li>Providing transparency and proof of results<>
+<li>Providing transparency and proof of results</li>
 </ul>
 </ul>
 <p>I’m currently learning how GitHub works, and how I might use it to make some of my dreams realities.
